@@ -1,0 +1,5 @@
+# ruff.toml
+lint.select = ["E", "F", "W", "I"]
+lint.ignore = ["E501"]
+line-length = 88
+target-version = "py310"
